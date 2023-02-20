@@ -20,7 +20,7 @@ To train a GAN, train both networks simultaneously to maximize the performance o
 
     Train the discriminator to distinguish between real and generated data.
  
- Reference:
- mathworks: https://de.mathworks.com/help/deeplearning/ug/train-generative-adversarial-network.html?searchHighlight=Train%20Generative%20Adversarial%20Network%20%28GAN&s_tid=srchtitle_Train%20Generative%20Adversarial%20Network%20%2528GAN_1
+ # Reference:
+ #### mathworks: https://de.mathworks.com/help/deeplearning/ug/train-generative-adversarial-network.html?searchHighlight=Train%20Generative%20Adversarial%20Network%20%28GAN&s_tid=srchtitle_Train%20Generative%20Adversarial%20Network%20%2528GAN_1
  
- tensorflow:https://www.tensorflow.org/tutorials/generative/dcgan
+ #### tensorflow:https://www.tensorflow.org/tutorials/generative/dcgan
