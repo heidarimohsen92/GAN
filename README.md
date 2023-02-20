@@ -11,7 +11,7 @@ This diagram illustrates the generator network of a GAN generating images from v
 ![TrainGenerativeAdversarialNetworkGANExample_01](https://user-images.githubusercontent.com/51045212/220172258-1f0bd88d-31ca-47b5-9e4a-f357d25917b2.png)
 
 This diagram illustrates the structure of a GAN.
-![TrainGenerativeAdversarialNetworkGANExample_02](https://user-images.githubusercontent.com/51045212/220172367-c786acba-6b26-41e9-8943-9e495c695d13.png)
+![TrainGenerativeAdversarialNetworkGANExample_02](https://user-images.githubusercontent.com/51045212/220173620-307a0b6a-0730-4289-b8e3-59c57e031118.png)
 
 
 To train a GAN, train both networks simultaneously to maximize the performance of both:
@@ -24,3 +24,12 @@ To train a GAN, train both networks simultaneously to maximize the performance o
  #### mathworks: https://de.mathworks.com/help/deeplearning/ug/train-generative-adversarial-network.html?searchHighlight=Train%20Generative%20Adversarial%20Network%20%28GAN&s_tid=srchtitle_Train%20Generative%20Adversarial%20Network%20%2528GAN_1
  
  #### tensorflow:https://www.tensorflow.org/tutorials/generative/dcgan
+ ########
+
+# Result:
+![image_at_epoch_1000](https://user-images.githubusercontent.com/51045212/220173328-e823d877-c229-4875-87d8-9bc3c4074455.png)
+
+
+## GIF:
+![dcgan](https://user-images.githubusercontent.com/51045212/220173396-5aaec6b4-faef-4b9c-88cb-3dfc5a6c2f4d.gif)
+
