@@ -11,14 +11,14 @@ This diagram illustrates the generator network of a GAN generating images from v
 ![TrainGenerativeAdversarialNetworkGANExample_01](https://user-images.githubusercontent.com/51045212/220172258-1f0bd88d-31ca-47b5-9e4a-f357d25917b2.png)
 
 This diagram illustrates the structure of a GAN.
-####![TrainGenerativeAdversarialNetworkGANExample_02](https://user-images.githubusercontent.com/51045212/220173620-307a0b6a-0730-4289-b8e3-59c57e031118.png)
+![TrainGenerativeAdversarialNetworkGANExample_02](https://user-images.githubusercontent.com/51045212/220173950-d723665a-48fa-4f3d-ac16-d479ece278c0.png)
+
 
 
 To train a GAN, train both networks simultaneously to maximize the performance of both:
 
-    Train the generator to generate data that "fools" the discriminator.
-
-    Train the discriminator to distinguish between real and generated data.
+  Train the generator to generate data that "fools" the discriminator.
+  Train the discriminator to distinguish between real and generated data.
  
  # Reference:
  #### mathworks: https://de.mathworks.com/help/deeplearning/ug/train-generative-adversarial-network.html?searchHighlight=Train%20Generative%20Adversarial%20Network%20%28GAN&s_tid=srchtitle_Train%20Generative%20Adversarial%20Network%20%2528GAN_1
